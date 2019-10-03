@@ -72,6 +72,14 @@ const emojiItems = [
         genres: ["pop", "rock"],
         year: 2008
     },{
+        title: "Bye Bye Bye",
+        artist: ["NSYNC"],
+        featuredArtist: [],
+        emojiImgs: " 👋 👋 👋",
+        musicVideo: "https://www.youtube.com/watch?v=Eo-KmOd3i7s",
+        genres: ["pop"],
+        year: 2000
+    },{
         title: "Call Me Maybe",
         artist: ["Carly Rae Jepsen"],
         featuredArtist: [],
